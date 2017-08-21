@@ -8,4 +8,3 @@
  - [Less编码规范](https://github.com/Jafeney/CodingStyle/blob/master/LESS.md)
  - [ES6编码规范](https://github.com/Jafeney/CodingStyle/blob/master/ES6.md)
  - [React编码规范](https://github.com/Jafeney/CodingStyle/blob/master/REACT.md)
- - [css-in-javascript编码规范](https://github.com/Jafeney/CodingStyle/blob/master/CSS_IN_JAVASCRIPT.md)
